@@ -19,7 +19,7 @@
 🟣   >>> You monster
 ```
 
-gpt2bot is a multi-turn Telegram chatbot powered by neural networks. 
+
 
 The bot uses [DialoGPT](https://arxiv.org/abs/1911.00536) - a large-scale pretrained 
 dialogue response generation model, which was trained by Microsoft on 147M multi-turn 
